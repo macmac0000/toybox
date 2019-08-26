@@ -168,3 +168,4 @@ list) and then be pulled into android's toybox repo from there. (They
 generally resync on fridays). The exception is patches to their build scripts
 (Android.mk and the checked-in generated/* files) which go directly to AOSP.
 config
+make install
